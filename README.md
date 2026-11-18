@@ -7,7 +7,7 @@ A multithreaded HTTP server written in Java with raw sockets. It serves static f
 - Closes idle connections after a configurable timeout.
 - Shuts down cleanly, letting in progress requests finish.
 
-`WebServer.java` is my implementation. `ServerDriver.java` is the launcher written by my instructor.
+`WebServer.java` is my implementation. `ServerDriver.java` is the launcher written by Majid Ghaderi.
 
 ## Build and run
 
